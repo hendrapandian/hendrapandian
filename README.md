@@ -51,17 +51,6 @@
 | 🗺️ [Mapbox Traffic Visualizer](https://github.com/hendrapandian/Map-Traffic-box) | Live traffic overlays on interactive Mapbox GL maps |
 | 📋 [Job Application Tracker](https://github.com/hendrapandian/job-application-tracker) | Full-stack MERN app to manage job applications with JWT auth |
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hendrapandian&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendrapandian&theme=default" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrapandian&layout=compact&theme=default" height="165"/>
-</p>
-
 ---
 
 <p align="center"><i>Always open to interesting projects, collabs, or a good DSA problem to argue about.</i></p>
